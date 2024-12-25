@@ -1,5 +1,4 @@
 
-I built a classic chess game using Python
 
 ## Screenshots
 

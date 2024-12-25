@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/ruthvik889/my-chess-game/refs/heads/main/Screenshots/ruthvik_profilepic.png)
 
-Hello. I am Ruthvik Kodury from Oakridge International School. I have built a classic chess game using Python. Please see below for the screenshots and you can find the whole code in my GitHub account at: https://github.com/ruthvik889/my-chess-game
+Hello. I am Ruthvik Kodury from Oakridge International School. I have built a classic chess game using Python. Please see below for the screenshots and you can find the whole code in my GitHub account at:
+![](https://github.com/ruthvik889)
+
 ## Screenshots
 
 ### Start of the Game
